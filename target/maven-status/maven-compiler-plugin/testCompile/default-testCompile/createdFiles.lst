@@ -1,0 +1,16 @@
+ui\swagger\info\ProductsCRUDTest.class
+ui\swagger\info\StoresCRUDTest.class
+ui\swagger\cucumber\UtilitiesRunner.class
+ui\swagger\info\UtilitiesCRUDTest.class
+ui\swagger\cucumber\steps\MyProductsSteps.class
+ui\swagger\cucumber\ServicesRunner.class
+ui\swagger\cucumber\steps\MyUtilitiesSteps.class
+ui\swagger\cucumber\steps\MyServicesSteps.class
+ui\swagger\cucumber\steps\MyStoresSteps.class
+ui\swagger\cucumber\steps\MyCategoriesSteps.class
+ui\swagger\info\ServicesCRUDTest.class
+ui\swagger\cucumber\ProductsRunner.class
+ui\swagger\testbase\TestBase.class
+ui\swagger\info\CategoriesCRUDTest.class
+ui\swagger\cucumber\StoresRunner.class
+ui\swagger\cucumber\CategoriesRunner.class

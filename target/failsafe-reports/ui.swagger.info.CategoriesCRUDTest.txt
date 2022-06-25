@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: ui.swagger.info.CategoriesCRUDTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in ui.swagger.info.CategoriesCRUDTest
+test001(ui.swagger.info.CategoriesCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at ui.swagger.info.CategoriesCRUDTest.test001(CategoriesCRUDTest.java:27)
+
+test002(ui.swagger.info.CategoriesCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at ui.swagger.info.CategoriesCRUDTest.test002(CategoriesCRUDTest.java:36)
+
+test003(ui.swagger.info.CategoriesCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at ui.swagger.info.CategoriesCRUDTest.test003(CategoriesCRUDTest.java:45)
+
+test004(ui.swagger.info.CategoriesCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at ui.swagger.info.CategoriesCRUDTest.test004(CategoriesCRUDTest.java:54)
+
